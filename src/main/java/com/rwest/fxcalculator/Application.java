@@ -87,8 +87,8 @@ public class Application {
 		System.out.println(InvalidInputException.FORMAT);
 		System.out.println("Rates older than " + ApplicationConfig.getRefreshInterval()
 				+ "ms will be refreshed before conversion takes place\n");
-		System.out.println("Type \'SHOW CURRENCIES\' to view available rates");
-		System.out.println("Type \'SHOW RATES\' to view available currencies");
+		System.out.println("Type \'SHOW CURRENCIES\' to view available currencies");
+		System.out.println("Type \'SHOW RATES\' to view available rates");
 		System.out.println("Type \'QUIT\' to exit\n");
 	}
 }

@@ -33,4 +33,8 @@ Conversion commands must be in the format of {CURRENCY} {AMOUNT} in {CURRENCY}, 
 AUD 100.49 in GBP
 ```
 
+Type `SHOW CURRENCIES` to view available currencies
+
+Type `SHOW RATES` to view available rates
+
 Type `QUIT` to exit
